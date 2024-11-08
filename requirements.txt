@@ -7,3 +7,4 @@ scipy
 statsmodels
 scikit-learn
 yfinance
+pytest
