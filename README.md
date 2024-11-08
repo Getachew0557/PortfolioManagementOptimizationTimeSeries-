@@ -18,7 +18,7 @@ Use historical financial data for three key assets: Tesla (TSLA) Historical stoc
 - Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/portfolio-optimization.git
+git clone https://github.com/Getachew0557/PortfolioManagementOptimizationTimeSeries-.git
 ```
 - Install Dependencies
 ```bash

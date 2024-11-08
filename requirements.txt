@@ -1,0 +1,9 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+yfinance
