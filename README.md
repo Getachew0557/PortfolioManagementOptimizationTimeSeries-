@@ -38,11 +38,12 @@ python main.py
 - `models/`: Includes the forecasting models (ARIMA, SARIMA, LSTM).
 - `notebooks/`: Jupyter notebooks for EDA, model implementation, and optimization results.
 - `requirements.txt`: Lists required Python packages.
-- `tests/`: 
-- `src/`:
-- `Dockerfile/`:
-- `.github/workflow/`:
-- `figures/`:
+- `scripts/`: Contains executable scripts, including the main entry point (main.py) to run the project.
+- `tests/`: Includes unit tests to ensure code functionality and reliability.
+- `src/`:Contains executable scripts, including the main entry point (main.py) to run the project.
+- `Dockerfile/`: Defines the Docker environment for consistent deployment.
+- `.github/workflow/`: Contains GitHub Actions configurations for continuous integration and deployment.
+- `figures/`: Holds images and plots generated during analysis.
 
 
 ## Contact Information
