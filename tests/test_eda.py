@@ -4,11 +4,11 @@ import unittest
 import pandas as pd
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../data')))
-from eda import plot_decomposition, plot_rolling_metrics, calculate_daily_returns, calculate_risk_metrics
+from eda_analysis import plot_decomposition, plot_rolling_metrics, calculate_daily_returns, calculate_risk_metrics
 from io import StringIO
 import sys
 
-from eda import plot_decomposition, plot_rolling_metrics, calculate_daily_returns, calculate_risk_metrics
+from eda_analysis import plot_decomposition, plot_rolling_metrics, calculate_daily_returns, calculate_risk_metrics
 
 class TestEDA(unittest.TestCase):
     def setUp(self):
