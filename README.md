@@ -24,12 +24,34 @@ git clone https://github.com/Getachew0557/PortfolioManagementOptimizationTimeSer
 ```bash
 pip install -r requirements.txt
 ```
+- navigate to scripts
+```bash
+cd scripts
+```
+- Run main script
+```bash
+python main.py
+```
 
 # Files
 - `data/`: Contains raw and processed data for analysis.
 - `models/`: Includes the forecasting models (ARIMA, SARIMA, LSTM).
 - `notebooks/`: Jupyter notebooks for EDA, model implementation, and optimization results.
 - `requirements.txt`: Lists required Python packages.
+- `tests/`: 
+- `src/`:
+- `Dockerfile/`:
+- `.github/workflow/`:
+- `figures/`:
 
-# License
-Apache2 License.
+
+## Contact Information
+
+- **Name: Getachew Getu**
+- GitHub: [Getachew0557](https://github.com/Getachew0557)
+- Email: [getachewgetu2010@gmail.com](mailto:getachewgetu2010@gmail.com)
+- LinkedIn: [Getachew Getu](https://www.linkedin.com/in/getachew-getu-9534041a4)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
